@@ -9,7 +9,7 @@ I am a student developer using code to model the real world—from stock market 
 *Major research projects and full-stack applications.*
 ###  [SMA_Project](https://github.com/ClaysonV/SMA_Project)
 **Focus:** Computational Finance
-**Tech:** Python, Pandas, NumPy, Matplotlib
+**Tech:** Python, Pandas, NumPy, yfinance, Matplotlib
 > A backtesting engine for a trend-following strategy (50/200-day SMA Crossover)
 > *Status: Complete*
 
