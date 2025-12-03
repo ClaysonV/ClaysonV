@@ -15,7 +15,7 @@ I am a student developer using code to model the real world—from stock market 
 
 ---
 
-## 🧮 The Lab (Experiments & Homework)
+##  The Lab (Experiments & Homework)
 *Small scripts, calculus problem solvers, and logic puzzles.*
 
 
