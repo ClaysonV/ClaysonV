@@ -1,7 +1,7 @@
 # Hi, I'm Clayson Varela 👋
 ###  High School Class of 2026 | Aspiring Computational Physicist
 
-I am a student developer using code to model the real world—from stock market volatility to mechanical systems. My goal is to combine **Advanced Mathematics**, **Physics**, and **Data Science** to build predictive models.
+I am a student developer using code to model the real world, from stock market volatility to mechanical systems. My goal is to combine **Advanced Mathematics**, **Physics**, and **Data Science** to build predictive models.
 
 ---
 
