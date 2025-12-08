@@ -24,7 +24,7 @@ I am a student developer using code to model the real world, from stock market v
 | Volatility Analyzer | Finance | analyze the risk profiles of various stocks | [View Code](https://github.com/ClaysonV/Stock_Volatility_Analyzer) |
 | Sharpe Ratio Comparison | Finance | Compares equity risk-adjusted returns using Sharpe Ratio | [View Code](https://github.com/ClaysonV/Sharpe_Ratio_Comparison) |
 | Alpha/Beta Calculator | Finance | Calculates Alpha (α) and Beta (β) relative to a benchmark using CAPM | [View Code](https://github.com/ClaysonV/Alpha_Beta_Calculator) |
-|  |  |  |  |
+| Market Breadth Dashboard | Finance | Visualizes S&P 500 breadth, trend strength, and risk regimes using a multi-factor dashboard | [View Code](https://github.com/ClaysonV/Market-Breadth-Dashboard/tree/main) |
 
 </details>
 
