@@ -14,7 +14,7 @@
 > A wealth simulation engine that builds mathematically optimal portfolios. It runs 5,000 Monte Carlo simulations to visualize the Efficient Frontier and uses SciPy to solve for the specific asset allocation that maximizes the Sharpe Ratio.
 
 
-###  [SMA_Project](https://github.com/ClaysonV/SMA_Project)
+###  [SMA Project](https://github.com/ClaysonV/SMA_Project)
 **Focus:** Computational Finance
 **Tech:** Python, Pandas, NumPy, yfinance, Matplotlib
 > A backtesting engine for a trend-following strategy (50/200-day SMA Crossover)
