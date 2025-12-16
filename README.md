@@ -9,10 +9,10 @@
 ##  Capstone Projects (The Big Stuff)
 *Major research projects and full-stack applications.*
 
-###  [The Portfolio Optimizer & Factor Engine](https://github.com/ClaysonV/Portfolio_Optimizer)
-**Focus:** Modern Portfolio Theory (MPT) & Risk Factor Analysis
-**Tech:** Python, SciPy (minimize), Statsmodels (OLS), Monte Carlo, Seaborn
-> A wealth simulation engine that builds mathematically optimal portfolios. It runs 5,000 Monte Carlo simulations to visualize the Efficient Frontier and uses SciPy to solve for the specific asset allocation that maximizes the Sharpe Ratio.
+###  [Global Air Defense Simulator (GADS)](https://github.com/ClaysonV/Air_Defense_Simulator)
+**Focus:** Computational Physics, Sensor Fusion & Autonomous Guidance
+**Tech:** Python, NumPy (Vector Calculus), Matplotlib (Real-time 3D Animation)
+> A real-time physics engine simulating aerial intercepts. It implements Linear Kalman Filtering to track targets through simulated stealth noise and uses Proportional Navigation algorithms for missile guidance. Features a live tactical dashboard visualizing atmospheric drag, 3D trajectories, and kill probability analytics.
 
 
 ###  [The Portfolio Optimizer & Factor Engine](https://github.com/ClaysonV/Portfolio_Optimizer)
