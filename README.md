@@ -8,6 +8,13 @@
 
 ##  Capstone Projects (The Big Stuff)
 *Major research projects and full-stack applications.*
+
+###  [The Portfolio Optimizer & Factor Engine](https://github.com/ClaysonV/Portfolio_Optimizer)
+**Focus:** Modern Portfolio Theory (MPT) & Risk Factor Analysis
+**Tech:** Python, SciPy (minimize), Statsmodels (OLS), Monte Carlo, Seaborn
+> A wealth simulation engine that builds mathematically optimal portfolios. It runs 5,000 Monte Carlo simulations to visualize the Efficient Frontier and uses SciPy to solve for the specific asset allocation that maximizes the Sharpe Ratio.
+
+
 ###  [The Portfolio Optimizer & Factor Engine](https://github.com/ClaysonV/Portfolio_Optimizer)
 **Focus:** Modern Portfolio Theory (MPT) & Risk Factor Analysis
 **Tech:** Python, SciPy (minimize), Statsmodels (OLS), Monte Carlo, Seaborn
