@@ -6,7 +6,7 @@
 * I enjoy building projects that turn raw data into insights, test ideas through simulation, and explore how analytical tools can support better decision-making in science, engineering, and business contexts.
 
 ## Staple Projects
-*My flagship applications, full-scale architectures, and primary portfolio pieces.*
+*My full-scale architectures, and primary portfolio pieces.*
 
 * [Algorithmic Trading Backtester](link-to-repo) (Java) - [In Progress]:
 
