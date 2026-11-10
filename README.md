@@ -8,7 +8,7 @@
 ## Staple Projects
 *My flagship applications, full-scale architectures, and primary portfolio pieces.*
 
-* **[Algorithmic Trading Backtester](link-to-repo) (Java) - [In Progress]:
+* [Algorithmic Trading Backtester](link-to-repo) (Java) - [In Progress]:
 
 ## Small Projects & Explorations
 *Targeted scripts, mathematical models, and experiments.*
