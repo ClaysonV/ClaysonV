@@ -12,6 +12,7 @@
 *Targeted scripts, mathematical models, and experiments.*
 
 * **[Black-Scholes_OPE](https://github.com/ClaysonV/Black-Scholes_OPE) (Kotlin):** A focused options pricing engine implementing Black-Scholes mathematics to evaluate European derivative contracts.
+* **[Sharpe-Analyzer](https://github.com/ClaysonV/Sharpe-Analyzer) (Python):** A financial analysis script that fetches historical market data to calculate, compare, and visualize annualized risk-adjusted returns for custom asset portfolios.
 
 ---
 *Feel free to reach out to discuss algorithms, physics problems, or market mechanics!*
